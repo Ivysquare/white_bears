@@ -1,0 +1,59 @@
+
+body{
+background-color: blue;
+}
+
+<style>
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color: #F8F8FF;
+		color: lightgray;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{
+		float: left;
+		background-color: #F8F8FF;
+		width: 120px;
+		min-height: 620px;
+		padding: 10px;  
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}  
+	
+	#bears
+	{
+	   float;left
+	   padding: 0 px;
+	   width: 480 px;
+	   background-color: browm;
+	   color: white;
+	   
+	#ad
+	{
+		float: left;
+		width: 160px;
+		min-height: 620px;
+		padding: 10px;
+		background-color: #F8F8FF;
+		color: black;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: light-blue;
+		color: white;
+		text-align: center;
+		padding: 20px;
+	}	
