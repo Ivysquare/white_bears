@@ -24,7 +24,8 @@
 <li><a href = noweinfo.html> Najnowsze informacje o serii</a></li>
 <li><a href = plemiona.html>O Plemionach </a></li> </ul>
 
-
 <h1>STRONA W BUDOWIE<h1>
 
  </div>
+ 
+ 
